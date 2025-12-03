@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phenomx-health-redesign/dashboard/build/static/css/main.e08eb2ba.css",
+    "main.js": "/phenomx-health-redesign/dashboard/build/static/js/main.52faf1b5.js",
+    "index.html": "/phenomx-health-redesign/dashboard/build/index.html",
+    "main.e08eb2ba.css.map": "/phenomx-health-redesign/dashboard/build/static/css/main.e08eb2ba.css.map",
+    "main.52faf1b5.js.map": "/phenomx-health-redesign/dashboard/build/static/js/main.52faf1b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08eb2ba.css",
+    "static/js/main.52faf1b5.js"
+  ]
+}
